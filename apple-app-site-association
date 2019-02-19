@@ -1,0 +1,11 @@
+{
+    "applinks": {
+        "apps": [],
+        "details": [
+            {
+                "appID": "289U2845D4.test.server289U2845D4",
+                "paths": [ "*" ]
+            }
+        ]
+    }
+}
