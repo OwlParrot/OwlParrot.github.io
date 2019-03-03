@@ -3,7 +3,11 @@
         "apps": [],
         "details": [
             {
-                "appID": "289U2845D4.test.server289U2845D4",
+                "appID": "42V7DCQUR8.com.saprun.alpha.client",
+                "paths": [ "/ru.alfabank.fiori/*" ]
+            },
+            {
+                "appID": "42V7DCQUR8.com.saprun.alpha.tokenagent",
                 "paths": [ "*" ]
             }
         ]
