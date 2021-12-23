@@ -29,15 +29,15 @@
 			<key>metadata</key>
 			<dict>
 				<key>bundle-identifier</key>
-				<string>com.evraz.mobile.sedcorp</string>
+				<string>com.evraz.mobile.huntcorp</string>
 				<key>bundle-version</key>
-				<string>1.0.53p</string>
+				<string>2.1.33d</string>
 				<key>kind</key>
 				<string>software</string>
 				<key>platform-identifier</key>
 				<string>com.apple.platform.iphoneos</string>
 				<key>title</key>
-				<string>ЕВРАЗ СЭД</string>
+				<string>RiskHunt</string>
 			</dict>
 		</dict>
 	</array>
